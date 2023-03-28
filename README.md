@@ -1,7 +1,7 @@
 # Wirtualny Lazik
 Prosta aplikacja stworzona w C++ i gnuplocie.
 
-!(./images/program_lazik.png)
+![Lazik przyklad](./images/program_lazik.png)
 
 ## Spis treści
 * [Ogólne informacje](#ogólne-informacje)
