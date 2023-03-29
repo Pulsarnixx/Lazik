@@ -1,4 +1,4 @@
-# Wirtualny Lazik
+# Wirtualny Łazik
 Prosta aplikacja stworzona w C++ i gnuplocie.
 
 ![Lazik przyklad](./images/program_lazik.png)
@@ -21,5 +21,5 @@ Aby uruchomić aplikację, zainstaluj aplikację gnuplot a następnie:
 $ cd ../Lazik/prj
 $ make
 ```
-## Źródla
+## Źródła
 Projekt powstał na potrzeby zajęć u Dr. inż Bogdana Kreczmera przy pomocy pliku jego własności, który służy do komunikacji aplikacji z oprogramowaniem gnuplot (plik "/Lazik/prj/src/lacze_do_gnuplota.cpp").
